@@ -3,7 +3,7 @@ TheKey's DevOps Challenge
 
 ## Challenge Details
 The DevOps team at TheKey serves as the infrastructure engineers for the company. Strong competency in cloud environments (specifically Google Cloud) and creating CI/CD pipelines are required for this position.
-We don't want this challenge doesn't take too much of your personal time; a minimal viable product (MVP) will do. We want to see how you approach the problem, not write the perfect code.
+We don't want this challenge to take too much of your personal time; a minimal viable product (MVP) will do. We want to see how you approach the problem, not write the perfect code.
 We are looking for **Terraform code written to deploy a basic Nginx web server that delivers the default website running in a pod within Kubernetes**. This should include the following:
 
 ## Requirements
